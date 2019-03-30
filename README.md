@@ -1,2 +1,2 @@
-# React Skeleton App
-A React Skeleton app integrated with Babel, Webpack and hot reloading.
+# React minimal boilerplate
+A React minimal app integrated with Babel, Webpack and hot reloading.
