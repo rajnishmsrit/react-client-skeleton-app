@@ -3,7 +3,7 @@ import React from 'react'
 const Test = () => {
     return(
         <div>
-            React Client Skeleton App
+            React Minimal Boilerplate
         </div>
     )
 }
