@@ -1,4 +1,2 @@
-# text-filter
-A library to convert md files interchangably into Slack, Jira comments.
-
-Demo availaible at [https://text-filter.netlify.com](https://text-filter.netlify.com)
+# React Skeleton App
+A React Skeleton app integrated with Babel, Webpack and hot reloading.
